@@ -15,8 +15,7 @@ timezone:
 # ↓ --------------------------
 
 title: stev3j # this is my name
-
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Do you like jazz?
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
